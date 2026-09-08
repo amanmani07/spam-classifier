@@ -285,7 +285,7 @@ spam → unwanted/spam message
 
 ## 👨‍💻 Author
 
-**Amman Mani**
+**Raja Amman**
 
 Bachelor of Science in Artificial Intelligence
 
